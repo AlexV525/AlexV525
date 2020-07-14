@@ -21,9 +21,3 @@ If you're interested about my informations, here are something you may want to k
   - 🏠 Personal: github@alexv525.com
   
   - 📋 Job offer: job@alexv525.com
-
-- 🥰 If any of my contributions provide some help to you, feel free to buy me a coffee ☕️ .
-
-| Alipay | Wechat | 
-|-----------------|-----------------|
-| ![](alipay.jpg) | ![](wechat.png) |
