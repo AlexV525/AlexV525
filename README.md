@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm a Flutter developer (currently) in China 👋
 
-<!--
-**AlexV525/AlexV525** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my profile page.
 
-Here are some ideas to get you started:
+If you're interested about my informations, here are something you may want to know! 😉
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 I’m currently working at [Ruiyu Technology and Network Center](http://www.mobdatas.com/) in Shanghai, China.
+
+- 🌱 I’m currently learning **Flutter**, **Android Native**, Web (Front-End), Python, etc.
+
+- 🚀 I'm active on GitHub and participate the development with many projects and repos.
+
+- 🤝 I'm a member for some organizations, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug).
+
+- 👯 I’m looking to collaborate on Flutter Team or any team related to Flutter in China.
+
+- ✍🏻 I'm writing articles on [juejin.im](https://juejin.im).
+
+- 📫 How to reach me:
+
+  - 🏠 Personal: github@alexv525.com
+  
+  - 📋 Job offer: job@alexv525.com
+
+- 🥰 If any of my contributions provide some help to you, feel free to buy me a coffee ☕️ .
+
+| Alipay | Wechat | 
+|-----------------|-----------------|
+| ![](alipay.jpg) | ![](wechat.png) |
