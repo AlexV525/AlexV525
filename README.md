@@ -24,6 +24,6 @@ If you're interested about my informations, here are something you may want to k
 
 - 💰 If any of my codes helps you, you can donate me through Alipay or WeChat!
 
-![Donations](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggxu0v4n7jj30m80b4wn5.jpg)
+![Donations](https://tva1.sinaimg.cn/large/007S8ZIlgy1ggxu0v4n7jj30m80b4wn5.jpg?)
 
 ![Alex Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexv525&show_icons=true&theme=dracula)
