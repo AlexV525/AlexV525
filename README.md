@@ -8,13 +8,17 @@ If you're interested about my informations, here are something you may want to k
 
 - 🌱 I’m currently learning **Flutter**, **Android Native**, Web (Front-End), Python, etc.
 
-- 🚀 I'm active on GitHub and participate the development with many projects and repos.
+- 🚀 I'm active on GitHub and participate the development with many projects and repositories.
 
-- 🤝 I'm a member for some organizations, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug).
+- 🏅 I'm a contributor with contributor access of Flutter SDK.
 
-- 👯 I’m looking to collaborate on Flutter Team or any team related to Flutter in China.
+- 🏫 I'm the leader of [OpenJMU](https://github.com/openjmu) from [JiMei University](https://english.jmu.edu.cn/).
 
-- ✍🏻 I'm writing articles on [juejin.im](https://juejin.im).
+- 🤝 I'm a member for some organizations, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug), etc.
+
+- 👯 I’m a maintainer of China Flutter User Group (CFUG) , and hope to collaborate with any team related to Flutter in China.
+
+- ✍🏻 I'm writing articles on [juejin.im](https://juejin.im/user/606586150596360) and my [Blog](https://blog.alexv525.com/).
 
 - 📫 How to reach me:
 
