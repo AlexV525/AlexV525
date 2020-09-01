@@ -4,13 +4,13 @@ Thanks for visiting my profile page.
 
 If you're interested about my informations, here are something you may want to know! 😉
 
-- 🏢 I’m currently working at [Ruiyu Technology and Network Center](http://www.mobdatas.com/) in Shanghai, China.
+- 🏢 I’m working at [Ruiyu Technology and Network Center](http://www.mobdatas.com/) in Shanghai, China.
 
-- 🌱 I’m currently learning **Flutter**, **Android Native**, Web (Front-End), Python, etc.
+- 🌱 I’m learning **Flutter**, **Android Native**, Web (Front-End), Python, etc.
 
 - 🚀 I'm active on GitHub and participate the development with many projects and repositories.
 
-- 🏅 I'm a contributor with contributor access of Flutter SDK.
+- 🏅 I'm a contributor with contributor access of Flutter.
 
 - 🏫 I'm the leader of [OpenJMU](https://github.com/openjmu) from [JiMei University](https://english.jmu.edu.cn/).
 
