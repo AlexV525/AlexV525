@@ -14,7 +14,7 @@ If you're interested about my informations, here are something you may want to k
 
 - 🏫 I'm the leader of [OpenJMU](https://github.com/openjmu) from [JiMei University](https://english.jmu.edu.cn/).
 
-- 🤝 I'm a member for some organizations, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug), etc.
+- 🤝 I'm a member of some organizations, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug), etc.
 
 - 👯 I’m a maintainer of China Flutter User Group (CFUG) , and hope to collaborate with any team related to Flutter in China.
 
