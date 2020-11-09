@@ -4,9 +4,7 @@ Thanks for visiting my profile page.
 
 If you're interested about my informations, here are something you may want to know! 😉
 
-- 🏢 I’m working at [Ruiyu Technology and Network Center](http://www.mobdatas.com/) in Shanghai, China.
-
-- 🌱 I’m learning **Flutter**, **Android Native**, Web (Front-End), Python, etc.
+- 🌱 I’m a full-time **Flutter**er, learning **Android Native**, Golang, Python, etc.
 
 - 🚀 I'm active on GitHub and participate the development with many projects and repositories.
 
@@ -14,7 +12,7 @@ If you're interested about my informations, here are something you may want to k
 
 - 🏫 I'm the leader of [OpenJMU](https://github.com/openjmu) from [JiMei University](https://english.jmu.edu.cn/).
 
-- 🤝 I'm a member for some organizations, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug), etc.
+- 🤝 I'm a member for some Flutter organizations or community, such as [FlutterCandies](https://github.com/fluttercandies), [CFUG](https://github.com/cfug), etc.
 
 - 👯 I’m a maintainer of China Flutter User Group (CFUG) , and hope to collaborate with any team related to Flutter in China.
 
