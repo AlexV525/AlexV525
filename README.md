@@ -1,4 +1,4 @@
-### Hi there, I'm Alex, a Flutter developer (currently) in China 👋
+### It's Alex.
 
 Thanks for visiting my profile page.
 
