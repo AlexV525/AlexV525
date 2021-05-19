@@ -21,5 +21,3 @@ Here are something you may want to know 😉:
   - 🏠 Personal: github@alexv525.com
   
   - 📋 Job offer: job@alexv525.com
-
-![Alex Li's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexv525&show_icons=true&theme=dracula)
