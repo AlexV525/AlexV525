@@ -12,7 +12,7 @@ Here are something you may want to know 😉:
 
 - 👯 I’m a maintainer of [China Flutter User Group (CFUG)](https://github.com/cfug) , and hope to collaborate with any team related to Flutter in China.
 
-- 🤝 I'm a member for some Flutter organizations in the community, such as [FlutterCandies](https://github.com/fluttercandies).
+- 🤝 I'm a member of some Flutter organizations in the community, such as [FlutterCandies](https://github.com/fluttercandies).
 
 - ✍🏻 I wrote articles on [juejin.cn](https://juejin.cn/user/606586150596360) and my [Blog](https://blog.alexv525.com/).
 
