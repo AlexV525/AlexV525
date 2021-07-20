@@ -4,11 +4,11 @@ Thanks for visiting my profile page.
 
 Here are something you may want to know 😉:
 
-- 🌱 I’m a full-time **Flutter**er, learning **Android Native**.
+- 🌱 I’m a full-time **Flutter**er.
 
 - 🚀 I'm active on GitHub and participate the development with many projects and repositories.
 
-- 🏅 I'm a contributor with contributor access of the Flutter organization.
+- 🏅 I'm a Flutter GDE (Google Devoloper Expert) and a contributor with contributor access of the Flutter organization.
 
 - 👯 I’m a maintainer of [China Flutter User Group (CFUG)](https://github.com/cfug) , and hope to collaborate with any team related to Flutter in China.
 
