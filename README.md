@@ -9,7 +9,7 @@ Couple things about me:
 - 🤝 Member of some Flutter organizations in the community, such as [FlutterCandies](https://github.com/fluttercandies).
 - ✍🏻 Wrote articles on [juejin.cn](https://juejin.cn/user/606586150596360) and my [Blog](https://blog.alexv525.com/).
 - 🚀 Active on GitHub and participate the development with many projects and repositories.
-- 🏆 2022 GitHub China Top 99 Impact (Rank #13). <a target="_blank" href="https://opensource.win/AlexV525/"><img width=100 alt="2022 GitHub China Top 99 impact person" src="https://opensource.win/img/award-f3479ff70bd35a792db484e8cbb6568d.png" /></a>
+- 🏆 2022 GitHub China Top 99 Impact (Rank #13). [![2022 GitHub China Top 99 impact person](https://img.shields.io/badge/%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E7%A0%81%E5%8A%9B%E6%A6%9C-Alex%20Li%20(Ranking%20%2313)-blueviolet)](https://opensource.win/AlexV525/)
 
 How to reach me 📫 :
   - 🏠 Personal: github@alexv525.com
