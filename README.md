@@ -21,8 +21,6 @@ Couple things about me:
 - Wins [2022 Google Open Source Peer Bonus](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
   ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
 
-![GDE-Social-Banners-flutter](https://user-images.githubusercontent.com/15884415/138385969-dc0648a8-813b-4027-b626-c8cb1af76ec1.png)
-
 ### Buy me anything 🍕
 
 If any of my codes or ideas helped you, feel free to sponsor me by:
