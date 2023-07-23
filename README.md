@@ -20,7 +20,7 @@ A couple of things about me:
   ![2021 GitHub China OpenRank #13](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2313)-blueviolet)
 - Wins [2022 Google Open Source Peer Bonus](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
   ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
-- 2022 [GitHub China OpenRank #18](https://opensource.win/AlexV525/).
+- 2022 [GitHub China OpenRank #18](https://kaiyuanshe.feishu.cn/wiki/wikcnnJ8b90pOoDRFzXngfRslkd).
   ![2022 GitHub China OpenRank #18](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2318)-blueviolet)
 
 ### Sponsoring 🍕
