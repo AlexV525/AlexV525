@@ -16,10 +16,12 @@ A couple of things about me:
 
 ### OSS Rewards 🏆
 
-- 2021 [GitHub China Top 99 Impact](https://opensource.win/AlexV525/) (Ranking #13).
-  ![2021 GitHub China Top 99 impact person](https://img.shields.io/badge/%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E7%A0%81%E5%8A%9B%E6%A6%9C-Alex%20Li%20(Ranking%20%2313)-blueviolet)
+- 2021 [GitHub China OpenRank #13](https://opensource.win/AlexV525/).
+  ![2021 GitHub China OpenRank #13](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2313)-blueviolet)
 - Wins [2022 Google Open Source Peer Bonus](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
   ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
+- 2022 [GitHub China OpenRank #18](https://opensource.win/AlexV525/).
+  ![2022 GitHub China OpenRank #18](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2318)-blueviolet)
 
 ### Sponsoring 🍕
 
