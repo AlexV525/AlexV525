@@ -23,6 +23,26 @@ A couple of things about me:
 - 2022 [GitHub China OpenRank #18](https://kaiyuanshe.feishu.cn/wiki/wikcnnJ8b90pOoDRFzXngfRslkd).
   ![2022 GitHub China OpenRank #18](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2318)-blueviolet)
 
+### Participating groups/organizations 💭
+
+#### As an owner
+
+| LOGO                                                                         | Name                                                    | Description                                                   |
+|:-----------------------------------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------------------|
+| ![FlutterCandies](https://avatars.githubusercontent.com/u/47586449?s=48&v=4) | FlutterCandies https://github.com/fluttercandies        | Based in China, builds massive great quality Flutter plugins. |
+| ![CFUG](https://avatars.githubusercontent.com/u/44133785?s=48&v=4)           | CFUG (China Flutter User Group) https://github.com/cfug | Maintains flutter.cn / dart.cn and `dio`.                     |
+
+#### As a regular maintainer
+
+| LOGO                                                                       | Name/Link                                    | Description                       |
+|:---------------------------------------------------------------------------|:---------------------------------------------|:----------------------------------|
+| ![Flutter](https://avatars.githubusercontent.com/u/14101776?s=48&v=4)      | Flutter https://github.com/flutter           | Role as `flutter-hackers`.        |
+| ![FlutterGen](https://avatars.githubusercontent.com/u/70014310?s=48&v=4)   | FlutterGen https://github.com/FlutterGen     | Maintains `flutter_gen` packages. |
+| ![openwebf](https://avatars.githubusercontent.com/u/109506137?s=48&v=4)    | openwebf https://github.com/openwebf         | Maintains `webf` packages.        |
+| ![OpenFlutter](https://avatars.githubusercontent.com/u/42670328?s=48&v=4)  | OpenFlutter https://github.com/OpenFlutter   | Maintains several packages.       |
+| ![flutterchina](https://avatars.githubusercontent.com/u/38549573?s=48&v=4) | flutterchina https://github.com/flutterchina | Maintains `cookie_jar` packages.  |
+| ![RxReader](https://avatars.githubusercontent.com/u/68266204?s=48&v=4)     | RxReader https://github.com/RxReader         | Maintains `*kits` packages.       |
+
 ### Sponsoring 🍕
 
 If any of my codes or ideas helped you, feel free to sponsor me by:
