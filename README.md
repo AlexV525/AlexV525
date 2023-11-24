@@ -1,8 +1,5 @@
-## It's Alex.
+# Artificial Labile intelligence cybernated Existence X - ALEX
 
-Thanks for visiting my profile page.
-
-A couple of things about me:
 - 🌱 Full-time **Flutter**er.
 - 🏅 [Flutter GDE (Google Developer Expert)](https://developers.google.com/profile/u/AlexV525).
 - 💙 Flutter Contributor with contributor access to the Flutter organization, mainly contributes to the framework, `flutter_tools`, `camera`, and `video_player`.
@@ -10,11 +7,11 @@ A couple of things about me:
 - 🤝 Member of some Flutter organizations in the community of China, such as [FlutterCandies](https://github.com/fluttercandies).
 - 🚀 Active on GitHub and participated in developing many projects and repositories.
 
-### Contact me 📫 :
+## Contact 📫 :
   - 🏠 Personal: github@alexv525.com
   - 📋 Work: job@alexv525.com
 
-### OSS Rewards 🏆
+## OSS Rewards 🏆
 
 - 2021 [GitHub China OpenRank #13](https://opensource.win/AlexV525/).
   ![2021 GitHub China OpenRank #13](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2313)-blueviolet)
@@ -23,16 +20,16 @@ A couple of things about me:
 - 2022 [GitHub China OpenRank #18](https://kaiyuanshe.feishu.cn/wiki/wikcnnJ8b90pOoDRFzXngfRslkd).
   ![2022 GitHub China OpenRank #18](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2318)-blueviolet)
 
-### Participating groups/organizations 💭
+## Participating groups/organizations 💭
 
-#### As an owner
+### As an owner
 
 | LOGO                                                                         | Name                                                    | Description                                                   |
 |:-----------------------------------------------------------------------------|:--------------------------------------------------------|:--------------------------------------------------------------|
 | ![FlutterCandies](https://avatars.githubusercontent.com/u/47586449?s=48&v=4) | FlutterCandies https://github.com/fluttercandies        | Based in China, builds massive great quality Flutter plugins. |
 | ![CFUG](https://avatars.githubusercontent.com/u/44133785?s=48&v=4)           | CFUG (China Flutter User Group) https://github.com/cfug | Maintains flutter.cn / dart.cn and `dio`.                     |
 
-#### As a regular maintainer
+### As a regular maintainer
 
 | LOGO                                                                       | Name/Link                                    | Description                       |
 |:---------------------------------------------------------------------------|:---------------------------------------------|:----------------------------------|
@@ -43,7 +40,7 @@ A couple of things about me:
 | ![flutterchina](https://avatars.githubusercontent.com/u/38549573?s=48&v=4) | flutterchina https://github.com/flutterchina | Maintains `cookie_jar` packages.  |
 | ![RxReader](https://avatars.githubusercontent.com/u/68266204?s=48&v=4)     | RxReader https://github.com/RxReader         | Maintains `*kits` packages.       |
 
-### Sponsoring 🍕
+## Sponsoring 🍕
 
 If any of my codes or ideas helped you, feel free to sponsor me by:
 
