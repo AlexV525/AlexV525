@@ -7,10 +7,6 @@
 - 🤝 Member of some Flutter organizations in the community of China, such as [FlutterCandies](https://github.com/fluttercandies).
 - 🚀 Active on GitHub and participated in developing many projects and repositories.
 
-## Contact 📫 :
-  - 🏠 Personal: github@alexv525.com
-  - 📋 Work: job@alexv525.com
-
 ## OSS Rewards 🏆
 
 - 2021 [GitHub China OpenRank #13](https://opensource.win/AlexV525/).
@@ -45,8 +41,3 @@
 If any of my codes or ideas helped you, feel free to sponsor me by:
 
 - [GitHub Sponsor](https://github.com/sponsor/AlexV525)
-- [爱发电](https://afdian.net/a/AlexV525)，连接创作者与粉丝的按月赞助平台。
-
-|            Alipay            |            WeChat            |           DCEP           |          ICP           |
-|:----------------------------:|:----------------------------:|:------------------------:|:----------------------:|
-| ![Alipay](assets/alipay.png) | ![WeChat](assets/wechat.png) | ![DCEP](assets/dcep.png) | ![ICP](assets/icp.png) |
