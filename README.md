@@ -9,12 +9,19 @@
 
 ## OSS Rewards 🏆
 
-- 2021 [GitHub China OpenRank #13](https://opensource.win/AlexV525/).
+### GitHub China OpenRank
+- 2021 [#13](https://opensource.win/AlexV525/).
   ![2021 GitHub China OpenRank #13](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2313)-blueviolet)
-- Wins [2022 Google Open Source Peer Bonus](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
-  ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
-- 2022 [GitHub China OpenRank #18](https://kaiyuanshe.feishu.cn/wiki/wikcnnJ8b90pOoDRFzXngfRslkd).
+- 2022 [#18](https://kaiyuanshe.feishu.cn/wiki/wikcnnJ8b90pOoDRFzXngfRslkd).
   ![2022 GitHub China OpenRank #18](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2318)-blueviolet)
+- 2023 [#13](https://kaiyuanshe.github.io/2023-China-Open-Source-Report/data.html#_2-8-%E4%B8%AD%E5%9B%BD%E5%BC%80%E5%8F%91%E8%80%85-openrank-%E6%8E%92%E5%90%8D).
+  ![2023 GitHub China OpenRank #13](https://img.shields.io/badge/Alex%20Li-(OpenRank%20%2313)-blueviolet)
+
+### Google Open Source Peer Bonus
+- Wins [2022 OSPB](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
+  ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
+- Wins 2024 OSPB (no blog announced yet).
+  ![2024 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2024-orange)
 
 ## Participating groups/organizations 💭
 
