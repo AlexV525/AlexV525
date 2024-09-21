@@ -20,7 +20,7 @@
 ### Google Open Source Peer Bonus
 - Wins [2022 OSPB](https://opensource.googleblog.com/2022/03/Announcing-First-Group-of-Google-Open-Source-Peer-Bonus-Winners-in-2022.html).
   ![2022 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2022-orange)
-- Wins 2024 OSPB (no blog announced yet).
+- Wins [2024 OSPB](https://opensource.googleblog.com/2024/06/google-open-source-peer-bonus-program-first-group-2024-recipients.html).
   ![2024 GOSPB](https://img.shields.io/badge/Google%20Open%20Source%20Peer%20Bonus-2024-orange)
 
 ## Participating groups/organizations 💭
