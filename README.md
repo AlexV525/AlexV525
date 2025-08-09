@@ -38,7 +38,6 @@
 |:---------------------------------------------------------------------------|:---------------------------------------------|:----------------------------------|
 | ![Flutter](https://avatars.githubusercontent.com/u/14101776?s=48&v=4)      | Flutter https://github.com/flutter           | Role as `flutter-hackers`.        |
 | ![FlutterGen](https://avatars.githubusercontent.com/u/70014310?s=48&v=4)   | FlutterGen https://github.com/FlutterGen     | Maintains `flutter_gen` packages. |
-| ![openwebf](https://avatars.githubusercontent.com/u/109506137?s=48&v=4)    | openwebf https://github.com/openwebf         | Maintains `webf` packages.        |
 | ![OpenFlutter](https://avatars.githubusercontent.com/u/42670328?s=48&v=4)  | OpenFlutter https://github.com/OpenFlutter   | Maintains several packages.       |
 | ![flutterchina](https://avatars.githubusercontent.com/u/38549573?s=48&v=4) | flutterchina https://github.com/flutterchina | Maintains `cookie_jar` packages.  |
 | ![RxReader](https://avatars.githubusercontent.com/u/68266204?s=48&v=4)     | RxReader https://github.com/RxReader         | Maintains `*kits` packages.       |
