@@ -6,6 +6,7 @@
 - 🧑‍💻 Leads development of [China Flutter User Group (CFUG)](https://github.com/cfug), and is willing to collaborate with any team related to Flutter in China.
 - 🤝 Member of some Flutter organizations in the community of China, such as [FlutterCandies](https://github.com/fluttercandies).
 - 🚀 Active on GitHub and participated in developing many projects and repositories.
+- 👛 Familiar with non-custodial cryptocurrency wallets and related infrastructures (on/off-chain).
 
 ## OSS Rewards 🏆
 
@@ -41,6 +42,8 @@
 | ![OpenFlutter](https://avatars.githubusercontent.com/u/42670328?s=48&v=4)  | OpenFlutter https://github.com/OpenFlutter   | Maintains several packages.       |
 | ![flutterchina](https://avatars.githubusercontent.com/u/38549573?s=48&v=4) | flutterchina https://github.com/flutterchina | Maintains `cookie_jar` packages.  |
 | ![RxReader](https://avatars.githubusercontent.com/u/68266204?s=48&v=4)     | RxReader https://github.com/RxReader         | Maintains `*kits` packages.       |
+
+And many individual repos as a collaborator.
 
 ## Sponsoring 🍕
 
